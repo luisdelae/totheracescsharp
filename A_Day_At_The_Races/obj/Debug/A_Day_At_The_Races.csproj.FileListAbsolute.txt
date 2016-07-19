@@ -1,0 +1,9 @@
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.exe.config
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.csprojResolveAssemblyReference.cache
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.Form1.resources
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.Properties.Resources.resources
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.csproj.GenerateResource.Cache
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.exe
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\bin\Debug\A_Day_At_The_Races.pdb
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.exe
+C:\Users\Luisdela\Desktop\TUTORIAL PROJECTS\Head First\A_Day_At_The_Races\A_Day_At_The_Races\obj\Debug\A_Day_At_The_Races.pdb
